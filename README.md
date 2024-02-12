@@ -1,1 +1,1 @@
-# Flat feet detection using CNN
+# Flat feet and Knocked Knees detection using CNN
